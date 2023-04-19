@@ -13,7 +13,7 @@
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description/>
+        <description><![CDATA[<p>testing</p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
@@ -87,14 +87,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-04-19 09:19:05</sys_created_on>
         <sys_id>efabb965971621101f11fef3a253af1b</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>GitHub-SNOW</sys_name>
         <sys_package display_value="Test GitHub" source="903bb9a1971621101f11fef3a253af6d">903bb9a1971621101f11fef3a253af6d</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test GitHub">903bb9a1971621101f11fef3a253af6d</sys_scope>
         <sys_update_name>sc_cat_item_producer_efabb965971621101f11fef3a253af1b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-04-19 09:19:05</sys_updated_on>
+        <sys_updated_on>2023-04-19 11:48:55</sys_updated_on>
         <table_name>incident</table_name>
         <taxonomy_topic/>
         <template/>
